@@ -1,0 +1,22 @@
+### Algorithm Approach(Pseudocode) showing all the nececcesary steps to solving the problem  ###
+
+1. Start
+2. IMPORT path module
+3. IMPORT colors module
+4. IMPORT custom calculator module
+5. GET current filename using path.basename()
+6. DISPLAY filename iwth colors (rainbow)
+7. SET num1 = 20, num2 = 5
+8. PERFORM addition (num1 + num2)
+  - DISPLAY result in red
+9. PERFORM subtraction (num1 - num2)
+  - DISPLAY result in blue
+10. PERFORM multiplication (num1 * num2)
+  - DISPLAY result in green
+11. PERFORM devision (num1 / num2)
+  - Try
+    - DISPLAY result in yellow
+  - Catch devision by zero error
+    - DISPLAY error in red background
+12. DISPLAY completion message with green background
+13. End
