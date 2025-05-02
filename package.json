@@ -1,0 +1,17 @@
+{
+  "name": "tizih-calculator",
+  "version": "1.0.0",
+  "description": "calculator of basic arithmetic operations",
+  "main": "app.js",
+
+  "scripts": {
+    "test": "test",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "TIZIH MARKO",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
